@@ -1,0 +1,12 @@
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\bin\Debug\UI.exe.config
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\bin\Debug\UI.exe
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\bin\Debug\UI.pdb
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\bin\Debug\Analyzer.dll
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\bin\Debug\Analyzer.pdb
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.FormFrequency.resources
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.Input.resources
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.Properties.Resources.resources
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.exe
+C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.pdb
