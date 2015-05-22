@@ -3,3 +3,8 @@ C:\Users\Marco\Desktop\FrequencyAnalyzer\Analyzer\bin\Debug\Analyzer.pdb
 C:\Users\Marco\Desktop\FrequencyAnalyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
 C:\Users\Marco\Desktop\FrequencyAnalyzer\Analyzer\obj\Debug\Analyzer.dll
 C:\Users\Marco\Desktop\FrequencyAnalyzer\Analyzer\obj\Debug\Analyzer.pdb
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\Analyzer\bin\Debug\Analyzer.dll
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\Analyzer\bin\Debug\Analyzer.pdb
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\Analyzer\obj\Debug\Analyzer.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\Analyzer\obj\Debug\Analyzer.dll
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\Analyzer\obj\Debug\Analyzer.pdb

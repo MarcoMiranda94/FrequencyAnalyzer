@@ -10,3 +10,15 @@ C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.Properties.Resources.re
 C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.csproj.GenerateResource.Cache
 C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.exe
 C:\Users\Marco\Desktop\FrequencyAnalyzer\UI\obj\Debug\UI.pdb
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\bin\Debug\UI.exe.config
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.exe
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.pdb
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\bin\Debug\UI.exe
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\bin\Debug\UI.pdb
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\bin\Debug\Analyzer.dll
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\bin\Debug\Analyzer.pdb
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.csprojResolveAssemblyReference.cache
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.FormFrequency.resources
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.Input.resources
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.Properties.Resources.resources
+D:\Documentos\GitHub\FrequencyAnalyzer\FrequencyAnalyzer\UI\obj\Debug\UI.csproj.GenerateResource.Cache
